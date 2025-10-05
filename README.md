@@ -12,21 +12,22 @@ Source Link: https://www.data.gov.in/resource/karnataka-agricultural-market-data
 
 ## Observations and Analysis from Plots
 ### Bar Plot: Top 10 Commodities by Total Arrival
-
+![image alt](https://github.com/Swan-23/Karnataka-agricultural-products-data-analysis/blob/07934b590a117dd3d494a3ffaa99e9c368a52f3b/Top%2010%20Commodities%20by%20Total%20Arrival%20in%202012.png)
 The bar chart identifies the top 10 commodities with the highest total arrival volume.Commodities like Cotton, Arecanut, Paddy, Jowar, and Maize dominate the market.
 This plot clearly indicates which agricultural products are the most significant in terms of sheer volume traded in Karnataka's APMCs. The high volume of these commodities suggests they are major crops for the state's agricultural economy. This information is vital for understanding agricultural production priorities and market focus in the region.
 
 ### Box Plot: Distribution of Arrivals for Top 10 Commodities
+![image alt](https://github.com/Swan-23/Karnataka-agricultural-products-data-analysis/blob/07934b590a117dd3d494a3ffaa99e9c368a52f3b/Distribution%20of%20Monthly%20Arrivals%20for%20Top%2010%20Commodities.png)
 The box plot shows the spread and consistency of arrivals for each top commodity.Paddy,  shows a tight box, indicating consistent monthly arrival volumes. 
 This visualization highlights the market stability of different products. A commodity with a smaller box and fewer outliers suggests a steady, predictable supply chain. Conversely, a commodity with a wide distribution and many outliers may be highly seasonal or have a more volatile supply.
 
 ### Line Plot: Monthly Arrival Trend for the Top Commodity
-
+![image alt](https://github.com/Swan-23/Karnataka-agricultural-products-data-analysis/blob/07934b590a117dd3d494a3ffaa99e9c368a52f3b/Monthly%20Arrival%20Trend%20for%20paddy%20in%202012.png)
 Paddy is the top commodity, the line plot shows a distinct seasonal trend.
 This trend directly correlates with the harvesting season for cotton in Karnataka, which typically occurs after the monsoon. The plot demonstrates how agricultural cycles fundamentally drive market supply.
 
-###  Scatter Plot: Individual Market Arrivals
-
+###  Scatter Plot: Paddy Market Arrivals
+![image alt](https://github.com/Swan-23/Karnataka-agricultural-products-data-analysis/blob/07934b590a117dd3d494a3ffaa99e9c368a52f3b/Scatter%20Plot%20of%20Individual%20Market%20Arrivals%20for%20paddy.png)
 The scatter plot visualizes every single market arrival entry for paddy throughout the year.
 This plot confirms the findings of the line plot but adds another layer of detail.
 
